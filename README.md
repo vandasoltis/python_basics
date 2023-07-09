@@ -1,1 +1,1 @@
-# python_basics
+# Repository of python basics
